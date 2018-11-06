@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Mali");
+img {
+  width: 550px;
+}
+
+h1 {
+  color: purple;
+}
+
+body {
+  background: #ed7bc5;
+  font-family: 'Mali', cursive;
+  color: lightblue;
+}
